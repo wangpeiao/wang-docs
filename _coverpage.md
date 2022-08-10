@@ -8,5 +8,5 @@
 
 - 外加喜欢的文章、图片、音乐以及美文收藏
 
-[Github](https://github.com/wangpeiao/wangpeiao/)
+[Github](https://github.com/wangpeiao/wang-docs/)
 [Get Started](./README.md)
