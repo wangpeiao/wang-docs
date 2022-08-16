@@ -363,7 +363,7 @@ HTML5 新增属性，相当于 display: none
 
 视觉上的隐藏
 
-(1) 设置 posoition 为 absolute 或 fixed，通过设置 top、left 等值，将其移出可视区域。
+(1) 设置 posoition 为 absolute 或 fixed，通过设置 top、left 等值，将其移出可视区域。
 position:absolute;
 left: -99999px;
 

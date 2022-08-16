@@ -4,7 +4,7 @@
     * [Css面试题](md/demo-Css-text.md)
     * [Js面试题](md/demo-Js-text.md)
     * [Vue面试题](md/demo-Vue-text.md)
-* Demo
+* 项目
     * [01_移动端项目](md/01_phone.md)
     * [02_pc端项目](md/02_pc.md)
     * [03_小程序项目](md/03_wechat.md)
